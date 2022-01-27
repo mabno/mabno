@@ -3,7 +3,7 @@
 ## Hi stranger, it’s great so see you! 👋
 <img align="left" alt="JavaScript" width="30" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/javascript.svg"/>
 <img align="left" alt="Python" width="30" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/python.svg"/>
-<img align="left" alt="Python" width="30" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/git.svg"/>
+<img alt="Python" width="30" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/git.svg"/>
 
 ![Repos Badge](https://badges.pufler.dev/repos/mabno) ![Years Badge](https://badges.pufler.dev/years/mabno)
 
@@ -19,22 +19,22 @@
 <img align="left" alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="SASS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img alt="TailwindCSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="TailwindCSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 ## 🛠️ Libraries & Tools I've used
 <img align="left" alt="Redux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="SocketIO" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 <img align="left" alt="Webpack" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img align="left" alt="Babel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-<img align="left" alt="Godot Engine" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+<img alt="Godot Engine" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 
 
 ## 💡️ I made projects with
 <img align="left" alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Laravel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 ## 😁️ More about me
 🎮️ I love game development, i made some games (not so good 😆️).<br>
