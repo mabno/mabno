@@ -8,7 +8,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/mabno) ![Years Badge](https://badges.pufler.dev/years/mabno)
 
 **I'm Mariano 🧉**<br>
-**I am 18 years old Argentinian who loves the information technologies and in special the development software process. I'm NodeJS, Express and React Developer 💻️**<br>
+**I am 18 years old Argentinian who loves the information technologies and specially the software development process. I'm NodeJS, Express and React Developer 💻️**<br>
 **Check out my repositories**
 
 ## 💪️ I feel comfortable with
