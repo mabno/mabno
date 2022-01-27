@@ -1,5 +1,5 @@
 
-![Banner](https://res.cloudinary.com/mabno/image/upload/v1643314896/carbon.png)
+![Banner](https://res.cloudinary.com/mabno/image/upload/v1643314896/carbon1.png)
 ## Hi stranger, it’s great so see you! 👋
 <img align="left" alt="JavaScript" width="30" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/javascript.svg"/>
 <img align="left" alt="Python" width="30" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/python.svg"/>
