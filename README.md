@@ -45,7 +45,7 @@
 🌱 I’m currently learning new technologies like Laravel and .NET.<br>
 💬 Ask me about any what you need, very possibly I don't have the answers but will try help you.
 
-**🤙️ Do you want contact me?**
+**🤙️ Do you want to contact me?**
 
 <img alt="Linkedin" width="20" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/gmail.svg"/> [mariano1baldovino@gmail.com](asd)
 
