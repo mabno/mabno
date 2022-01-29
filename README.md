@@ -49,7 +49,7 @@
 
 <img alt="Linkedin" width="20" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/gmail.svg"/> [mariano1baldovino@gmail.com](mailto:mariano1baldovino@gmail.com)
 
-<img alt="Linkedin" width="20" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/linkedin.svg"/> [LinkedIn](https://www.linkedin.com/in/mariano-baldovino-a968b222b/)
+<img alt="Linkedin" width="20" src="https://res.cloudinary.com/mabno/image/upload/v1643314896/linkedin.svg"/> [LinkedIn](www.linkedin.com/in/marianobaldovino)
 
 
 
